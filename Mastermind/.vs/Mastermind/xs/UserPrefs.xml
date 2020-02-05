@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{453C609D-F957-4AD0-8C3C-BEBBFC6EF478}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mastermind/Form1.vb">
+    <Files>
+      <File FileName="Mastermind/Form1.vb" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mastermind" expanded="True">
+            <Node name="Mastermind" expanded="True">
+              <Node name="Form1.vb" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Mastermind PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
